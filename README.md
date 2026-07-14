@@ -2,7 +2,7 @@
 
 <table align="center" >
   <tr>
-  <td  align="center" width="270" height="500">
+  <td  align="center" width="270" height="510">
   <br>
     <p> ${\textsf{\color{#00265d}On the road, behind the wheel}}$ <br>
         ${\textsf{\color{#043881}I do feel quite unreal}}$ <br>
@@ -23,7 +23,7 @@
   </td>
 
 
-  <td  valign="text-top" align="center" width="450" height="500">
+  <td  valign="text-top" align="center" width="450" height="510">
   <br>
     <p align="center"><img src="https://komarev.com/ghpvc/?username=biackhoie&label=stars&base=0&color=45a2fc&style=plastic"> </p>
   <br>
