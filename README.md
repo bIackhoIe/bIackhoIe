@@ -23,7 +23,7 @@
   </td>
 
 
-  <td  valign="text-top" align="center" width="450" height="510">
+  <td  valign="middle" align="center" width="450" height="510">
   <br>
     <p align="center"><img src="https://komarev.com/ghpvc/?username=biackhoie&label=stars&base=0&color=45a2fc&style=plastic"> </p>
   <br>
