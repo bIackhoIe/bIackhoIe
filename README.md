@@ -38,7 +38,13 @@
     ${\textsf{\color{#35aefb}i suffer from}}$ ${\textsf{\color{#0c5cb3}ocd}}$ ${\textsf{\color{#35aefb}, it will affect my interactions}}$ <br>
     ${\textsf{\color{#35aefb}with others, my life, my choices and my actions}}$ <br>
     ${\textsf{\color{#0c5cb3}dont disregard}}$ ${\textsf{\color{#35aefb}this while interacting with me,}}$ <br>
-    ${\textsf{\color{#35aefb}talking about me or thinking about me}}$
+    ${\textsf{\color{#35aefb}talking about me or thinking about me}}$ <br> <br>
+    ${\textsf{\color{#bfe4ff}danyds world fandom dniuid}}$ ${\textsf{\color{#35aefb}, don't try to involve me}}$ <br>
+    ${\textsf{\color{#35aefb}in your personal dramas with other people}}$ <br>
+    ${\textsf{\color{#35aefb}not looking for friends,}}$ ${\textsf{\color{#bfe4ff}i won't befriend anyone }}$ <br>
+    ${\textsf{\color{#35aefb}don't approach me for that purpose}}$ <br>
+    ${\textsf{\color{#35aefb}i don't care for anyone on this game on a personal level,}}$ <br>
+    ${\textsf{\color{#35aefb}don't be parasocial with me or my group}}$
   </details> 
   <br>
     <a href="https://github.com/treeyee"> <img src="https://files.catbox.moe/kjjvnl.gif"  width=150px> </a>
