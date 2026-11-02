@@ -42,7 +42,7 @@
     ${\textsf{\color{#bfe4ff}danyds world fandom dniuid}}$ ${\textsf{\color{#0c5cb3}, don't try to involve }}$ <br>
     ${\textsf{\color{#0c5cb3}me in your personal dramas with other people,}}$ <br>
     ${\textsf{\color{#35aefb}not looking for friends,}}$ ${\textsf{\color{#bfe4ff}i won't befriend  }}$ <br>
-    ${\textsf{\color{#35aefb}anyone don't approach me for that purpose}}$ <br>
+    ${\textsf{\color{#bfe4ff}anyone}}$ ${\textsf{\color{#35aefb}don't approach me for that purpose}}$ <br>
     ${\textsf{\color{#35aefb}i don't care for anyone on this game on a personal}}$ <br>
     ${\textsf{\color{#35aefb}level,}}$ ${\textsf{\color{#0c5cb3}don't be parasocial with me or my group}}$
   </details> 
